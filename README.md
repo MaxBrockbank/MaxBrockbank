@@ -5,4 +5,4 @@
   </p>
 </div>
 <img src="https://github-readme-stats.vercel.app/api/?username=MaxBrockbank&bg_color=30,1c1c1b,52524d,52524d,1c1c1b&text_color=13d48d&icon_color=16f5a3&title_color=16f5a3&hide_border=true"/>
-<img style="float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxBrockbank&bg_color=30,52524d,1c1c1b,1c1c1b&text_color=13d48d&icon_color=16f5a3&title_color=16f5a3&layout=compact&hide_border=true" width="50.5%"/>
+<img style="float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxBrockbank&bg_color=30,52524d,1c1c1b,1c1c1b&text_color=13d48d&icon_color=16f5a3&title_color=16f5a3&layout=compact&hide_border=true" width="55%"/>
